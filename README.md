@@ -1,7 +1,7 @@
 # Electron Forge Docker Container
 
-[![Build Status](https://travis-ci.org/electron-userland/electron-forge-container.svg?branch=master)](https://travis-ci.org/electron-userland/electron-forge-container)
-[![Docker Automated build](https://img.shields.io/docker/automated/malept/electron-forge.svg)](https://hub.docker.com/r/malept/electron-forge-container/)
+![Docker Build](https://github.com/perzeuss/electron-forge-container/workflows/Docker%20Image%20CI/badge.svg)
+[![Docker Hub](https://img.shields.io/docker/automated/perzeuss/electron-forge-ci.svg)](https://hub.docker.com/r/perzeuss/electron-forge-ci/)
 
 Used to run CI for [Electron Forge](https://github.com/electron-userland/electron-forge) on Linux,
 but can also be used as a base to build Electron app packages for Linux via Electron Forge.
