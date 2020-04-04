@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM electronuserland/builder:wine-mono
 
 ENV LC_ALL=C.UTF-8 LANG=C.UTF-8
 
